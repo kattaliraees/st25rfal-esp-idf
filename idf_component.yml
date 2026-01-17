@@ -1,7 +1,7 @@
 dependencies:
   idf: ">=5.0"
 description: "RFAL (Radio Frequency Abstraction Layer) port for ST25R NFC Readers on ESP-IDF"
-url: "https://github.com/kattaliraees/rfal-esp-idf"
+url: "https://github.com/kattaliraees/st25rfal-esp-idf"
 version: "1.0.0"
 tags:
   - nfc
